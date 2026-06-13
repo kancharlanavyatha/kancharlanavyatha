@@ -129,7 +129,7 @@ I'm building projects, learning AI, and chasing ambitious goals. Interested in D
 
 <br/>
 
-*open to internships · collabs · anyone who wants to talk ML at 2am*
+*open to internships · collabs · anyone who wants to talk life and code*
 
 <br/>
 
