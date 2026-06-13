@@ -23,7 +23,7 @@
 </div>
 
 B.S. Data Science @ **IIT Madras** · B.E. Information Science & Engineering @ **CIT Bengaluru** — simultaneously.  
-I build things that detect, classify, predict, and occasionally win hackathons.  
+I build things that detect, classify, predict, and do hackathons.  
 Currently navigating Mars (autonomously), roads (anomaly detection), and the Python curriculum at Stanford.
 
 > *"Not everything that can be counted counts, and not everything that counts can be counted."*
