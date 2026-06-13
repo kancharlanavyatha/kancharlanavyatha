@@ -25,7 +25,7 @@
 So destiny did play it's game. Welcome to my realm.
 Building projects, learning AI, and chasing ambitious goals. Interested in Data Science, Machine Learning, and entrepreneurship. Always exploring, always improving.
 
-> *"Build quietly. Learn relentlessly. Rule eventually."*
+> *"Becoming."*
 
 ---
 
