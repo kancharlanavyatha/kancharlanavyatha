@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&duration=2800&pause=1200&color=C084FC&center=true&vCenter=true&width=500&lines=Azarath+Metrion+Zinthos.;training+models.+breaking+things.;IIT+Madras+%2B+CIT+Bengaluru.;the+quiet+one+who+ships." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&duration=2800&pause=1200&color=C084FC&center=true&vCenter=true&width=500&lines=Azarath+Metrion+Zinthos." alt="Typing SVG" />
 </a>
 
 <br/><br/>
