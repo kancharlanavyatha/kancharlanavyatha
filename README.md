@@ -36,13 +36,12 @@ I'm building projects, learning AI, and chasing ambitious goals. Interested in D
 </div>
 
 ```
-☑  ISRO Ascend Challenge — Round 3 (1 of 74 teams, 2L+ applicants)
-☑  Stanford Code in Place — Selected (1 of ~1,000 from 66,000+)
-☑  Data Science Intern @ AISECT
-☑  AIML Intern @ CIT R&D
-☑  AIML Trainee @ Samsung Innovation Campus
+☑  ISRO Ascend Challenge — Round 3 
+☑  Stanford Code in Place
+☑  AIML Trainee at Samsung Innovation Campus
+☑  Curation Lead at Google Developer Group 
 ☐  Launch something people actually use
-☐  Become Tech Witch Supreme
+☐  Cast spells
 ```
 
 ---
