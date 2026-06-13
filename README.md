@@ -23,7 +23,7 @@
 </div>
 
 So destiny did play it's game. Welcome to my realm.
-Building projects, learning AI, and chasing ambitious goals. Interested in Data Science, Machine Learning, and entrepreneurship. Always exploring, always improving.
+I'm building projects, learning AI, and chasing ambitious goals. Interested in Data Science, Machine Learning, and entrepreneurship. Always exploring, always improving.
 
 > *"Becoming."*
 
