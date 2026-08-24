@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpeg" width="100%" />
+<img src="./banner.jpg" width="100%" />
 
 <br/>
 
@@ -31,23 +31,6 @@ I'm building projects, learning AI, and chasing ambitious goals. Interested in D
 
 <div align="center">
 
-### 📜 &nbsp; current quests &nbsp; 📜
-
-</div>
-
-```
-☑  ISRO Ascend Challenge — Round 3 
-☑  Stanford Code in Place
-☑  AIML Trainee at Samsung Innovation Campus
-☑  Curation Lead at Google Developer Group 
-☐  Launch something people actually use
-☐  Cast spells
-```
-
----
-
-<div align="center">
-
 ### 🔮 &nbsp; spellbook &nbsp; 🔮
 
 </div>
@@ -56,32 +39,32 @@ I'm building projects, learning AI, and chasing ambitious goals. Interested in D
 
 **⋆ languages ⋆**
 
-![Python](https://img.shields.io/badge/Python-1a0033?style=for-the-badge&logo=python&logoColor=c084fc)
-![Java](https://img.shields.io/badge/Java-1a0033?style=for-the-badge&logo=openjdk&logoColor=c084fc)
-![SQL](https://img.shields.io/badge/SQL-1a0033?style=for-the-badge&logo=postgresql&logoColor=c084fc)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0033?style=for-the-badge&logo=javascript&logoColor=c084fc)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1a0033?style=for-the-badge&logo=html5&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **☽ ml / data ☽**
 
-![Pandas](https://img.shields.io/badge/Pandas-1a0033?style=for-the-badge&logo=pandas&logoColor=a855f7)
-![NumPy](https://img.shields.io/badge/NumPy-1a0033?style=for-the-badge&logo=numpy&logoColor=a855f7)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a0033?style=for-the-badge&logo=scikitlearn&logoColor=a855f7)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-1a0033?style=for-the-badge&logo=yolo&logoColor=a855f7)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0033?style=for-the-badge&logo=python&logoColor=a855f7)
-![TFLite](https://img.shields.io/badge/TFLite-1a0033?style=for-the-badge&logo=tensorflow&logoColor=a855f7)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a0033?style=for-the-badge&logo=opencv&logoColor=a855f7)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **✦ tools & frameworks ✦**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-1a0033?style=for-the-badge&logo=streamlit&logoColor=c084fc)
-![Plotly](https://img.shields.io/badge/Plotly-1a0033?style=for-the-badge&logo=plotly&logoColor=c084fc)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a0033?style=for-the-badge&logo=fastapi&logoColor=c084fc)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a0033?style=for-the-badge&logo=jupyter&logoColor=c084fc)
-![Git](https://img.shields.io/badge/Git-1a0033?style=for-the-badge&logo=git&logoColor=c084fc)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-1a0033?style=for-the-badge&logo=raspberrypi&logoColor=c084fc)
-![Excel](https://img.shields.io/badge/Excel-1a0033?style=for-the-badge&logo=microsoftexcel&logoColor=c084fc)
-![UNIX](https://img.shields.io/badge/UNIX-1a0033?style=for-the-badge&logo=linux&logoColor=c084fc)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![UNIX](https://img.shields.io/badge/UNIX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
