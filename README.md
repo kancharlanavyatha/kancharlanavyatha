@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.jpg" width="100%" />
+<img src="./Titans Tower _ Teen Titans Screen Cap.jpg" width="100%" />
 
 <br/>
 
