@@ -88,23 +88,6 @@ I'm building projects, learning AI, and chasing ambitious goals. Interested in D
 
 <div align="center">
 
-### 🌌 &nbsp; arcane statistics &nbsp; 🌌
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kancharlanavyatha&show_icons=true&theme=midnight-purple&bg_color=0d001a&border_color=6b00b3&icon_color=c084fc&title_color=c084fc&text_color=d8b4fe&hide_border=false&ring_color=a855f7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kancharlanavyatha&layout=compact&theme=midnight-purple&bg_color=0d001a&border_color=6b00b3&title_color=c084fc&text_color=d8b4fe" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kancharlanavyatha&theme=midnight-purple&background=0d001a&border=6b00b3&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=d8b4fe&dates=7c3aed&stroke=0d001a" />
-
-</div>
-
----
-
-<div align="center">
-
 ### ✦ &nbsp; find me &nbsp; ✦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/k-lakshmi-navyatha-453151293)
